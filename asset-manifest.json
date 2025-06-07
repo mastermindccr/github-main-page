@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github-main-page/static/css/main.ff1948f5.css",
+    "main.js": "/github-main-page/static/js/main.2b951d46.js",
+    "static/media/MyGO_Garupa.jpeg": "/github-main-page/static/media/MyGO_Garupa.afe30b0b1095cedff21e.jpeg",
+    "index.html": "/github-main-page/index.html",
+    "main.ff1948f5.css.map": "/github-main-page/static/css/main.ff1948f5.css.map",
+    "main.2b951d46.js.map": "/github-main-page/static/js/main.2b951d46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1948f5.css",
+    "static/js/main.2b951d46.js"
+  ]
+}
